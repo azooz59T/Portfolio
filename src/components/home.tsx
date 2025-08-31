@@ -49,7 +49,7 @@ const Home: React.FC = () => {
           title="About Me"
           subtitle="Software Developer & Problem Solver"
           bio="I'm a highly skilled and results-driven Software Devloper with over 4 years of experience building web applications and developing innovative solutions in C#, PHP (Laravel), and JavaScript. Proven track record in full-stack development using Magento 2, React JavaScript, and SQL Server. Skilled in optimizing workflows, enhancing debugging processes, and maintaining transparent communication with stakeholders."
-          photoUrl="https://media.licdn.com/dms/image/v2/D5603AQGWCh7dGj1DFg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1683582085846?e=1753315200&v=beta&t=apHPwDkmnjbruGOz7d9BqraqLg0e-G4k-4v-VeGYT3g"
+          photoUrl="https://media.licdn.com/dms/image/v2/D5603AQGWCh7dGj1DFg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1683582085846?e=1759363200&v=beta&t=evg2M3n6G_XnInShN6mjs9weasIkBJxVYH4yCiqGY9Q"
         />
       </section>
 
